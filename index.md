@@ -8,9 +8,9 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
 ------------------------------------------------------------------------------------------
 #CONTACT DETAILS
 
- >> +91 9421242664\ 
+ > +91 9421242664
  >> mailakashpawar@gmail.com\ 
- >> https://www.linkedin.com/in/akashpawar
+ >> https://www.linkedin.com/in/akashpawar\
 
 ------------------------------------------------------------------------------------------
 #EDUCATION
@@ -54,7 +54,7 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
 >> Microsoft\
 >> Intel\
 >> geeksforgeeks\
->> Hackthebox (Script Kidde ~/akashpawar) 
+>> Hackthebox (Script Kidde ~/akashpawar)\ 
 >> Bugcrowd ( /akashpawar ) 
 
 
