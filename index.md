@@ -10,7 +10,7 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
 
  > +91 9421242664
  >> mailakashpawar@gmail.com \
- >> https://www.linkedin.com/in/akashpawar \
+ >> https://www.linkedin.com/in/akashpawar 
 
 ------------------------------------------------------------------------------------------
 #EDUCATION
