@@ -47,21 +47,21 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
 ------------------------------------------------------------------------------------------
 #AWARDS & ACTIVITY 
 
->> Hall Of Fame & Acknowledgement :
+> Hall Of Fame & Acknowledgement :
 
- > EC-Council
+>> EC-Council
 
- > Facebook
+>> Facebook
 
- > Microsoft
+>> Microsoft
 
- > Intel
+>> Intel
 
- > geeksforgeeks
+>> geeksforgeeks
 
- > Hackthebox (Script Kidde ~/akashpawar) 
+>> Hackthebox (Script Kidde ~/akashpawar) 
 
- > Bugcrowd ( /akashpawar ) 
+>> Bugcrowd ( /akashpawar ) 
 
 
 ------------------------------------------------------------------------------------------
