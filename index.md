@@ -2,8 +2,8 @@ AKASH PAWAR
 ------------------------------------------------------------------------------------------
 #ABOUT ME
 
- > Undergraduate Final year student of Computer Engineering, looking forward to craft solutions to difficult problems in survivable cyber-physical systems and enterprise information systems. 
-Keen technician and Pentester with extensive experience of Web Applications Pentesting and tools. Seeking a position with more responsibility.
+ > I am Undergraduate Final year student of Computer Science & Engineering, looking forward to solve to difficult problems in survivable cyber-physical systems and enterprise information systems. Work on improvements for security services, including the continuous enhancement of existing methodology material and supporting assets.
+Good technician and Pentester with extensive experience of Web Applications & Network Pentesting and tools. Seeking a position with more responsibility.
 
 ------------------------------------------------------------------------------------------
 #CONTACT DETAILS
