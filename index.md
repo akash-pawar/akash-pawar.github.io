@@ -10,7 +10,7 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
 
  > +91 9421242664 
  >> mailakashpawar@gmail.com 
- >> https://www.linkedin.com/in/akashpawar
+ >>> https://www.linkedin.com/in/akashpawar
 
 ------------------------------------------------------------------------------------------
 #EDUCATION
@@ -19,7 +19,8 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
  >> Deogiri Institute of Engineering and Management Studies
 
  > Relevant Coursework: 
- Structural Programming, Database Management Systems, Theoretical Computer Science, Computer Organization & Architecture, Engineering Mathematics, Computer Graphics, Java Programming, Microprocessors, Operating System, Computer Network.
+ 
+ >>Structural Programming, Database Management Systems, Theoretical Computer Science, Computer Organization & Architecture, Engineering Mathematics, Computer Graphics, Java Programming, Microprocessors, Operating System, Computer Network.
 
 ------------------------------------------------------------------------------------------
 
@@ -48,11 +49,11 @@ Keen technician and Pentester with extensive experience of Web Applications Pent
 
 > Hall Of Fame & Acknowledgement :
 
->> EC-Council
->> Facebook
->> Microsoft
->> Intel
->> geeksforgeeks
+>> EC-Council\
+>> Facebook\
+>> Microsoft\
+>> Intel\
+>> geeksforgeeks\
 >> Hackthebox (Script Kidde ~/akashpawar) 
 >> Bugcrowd ( /akashpawar ) 
 
